@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias de Videojuegos</title>
+    <link>https://manelportero.github.io/awdawd/</link>
+    <description>Últimas noticias del mundo gaming</description>
+    <language>es-es</language>
+
+    <item>
+      <title>Nuevo tráiler de GTA VI</title>
+      <link>https://manelportero.github.io/awdawd/gta6-trailer.html</link>
+      <description>Rockstar ha publicado el nuevo tráiler de GTA VI.</description>
+      <pubDate>Mon, 27 May 2025 12:00:00 +0200</pubDate>
+      <guid>https://manelportero.github.io/awdawd/gta6-trailer.html</guid>
+    </item>
+
+    <item>
+      <title>PlayStation anuncia la PS6</title>
+      <link>https://manelportero.github.io/awdawd/ps6-anuncio.html</link>
+      <description>Sony ha confirmado oficialmente el desarrollo de la PS6.</description>
+      <pubDate>Mon, 26 May 2025 09:30:00 +0200</pubDate>
+      <guid>https://manelportero.github.io/awdawd/ps6-anuncio.html</guid>
+    </item>
+
+    <item>
+      <title>Top 10 juegos indie de 2025</title>
+      <link>https://manelportero.github.io/awdawd/top-indie-2025.html</link>
+      <description>Lista de los mejores juegos indie del año.</description>
+      <pubDate>Sun, 25 May 2025 15:45:00 +0200</pubDate>
+      <guid>https://manelportero.github.io/awdawd/top-indie-2025.html</guid>
+    </item>
+
+  </channel>
+</rss>
